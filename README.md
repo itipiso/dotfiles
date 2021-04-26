@@ -6,4 +6,6 @@ oh-my-zsh and xresources configuration
 
 # classyTouch ( Oh-My-Zsh Theme )
   https://github.com/yarisgutierrez/classyTouch_oh-my-zsh
+  
+  
   git clone https://github.com/yarisgutierrez/classyTouch_oh-my-zsh.git ~/.oh-my-zsh/themes
