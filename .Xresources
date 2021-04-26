@@ -1,0 +1,55 @@
+URxvt*scrollTtyOutput: false
+URxvt*scrollWithBuffer: true
+URxvt*scrollTtyKeypress: true
+URxvt*scrollBar: false
+URxvt.secondaryScreen: 1
+URxvt.secondaryScroll: 0
+URxvt*font: xft:DejaVu Sans Mono:size=12
+URxvt.letterSpace: -1
+URxvt.perl-ext-common:  ...,resize-font,...
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+
+! Transparency
+! URxvt*inheritPixmap: true
+! URxvt*transparent: true
+! URxvt*shading: 7
+
+! Color Scheme
+! special
+*.foreground:   #ffffff
+*.background:   #000000
+*.cursorColor:  #ffffff
+
+! black
+*.color0:       #cbcbcb
+*.color8:       #c7c7c7
+
+! red
+*.color1:       #8c4665
+*.color9:       #bf4d80
+
+! green
+*.color2:       #287373
+*.color10:      #53a6a6
+
+! yellow
+*.color3:       #7c7c99
+*.color11:      #9e9ecb
+
+! blue
+*.color4:       #395573
+*.color12:      #477ab3
+
+! magenta
+*.color5:       #5e468c
+*.color13:      #7e62b3
+
+! cyan
+*.color6:       #31658c
+*.color14:      #6096bf
+
+! white
+*.color7:       #899ca1
+*.color15:      #c0c0c0
+
